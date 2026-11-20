@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-it/consent-mode-v2-framework",
+  "version": "1.0.0",
+  "description": "Implementazione tecnica di Google Consent Mode v2, blocco preventivo dei tracker e conformità alle linee guida del Garante Privacy.",
+  "license": "MIT",
+  "author": "TAVARDT Italia (https://ag.tavardt.com/it/)"
+}
