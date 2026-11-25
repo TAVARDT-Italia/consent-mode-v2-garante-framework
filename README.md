@@ -1,12 +1,10 @@
 # Framework Consent Mode v2 & Conformità GDPR / Garante
 
-[![Licenza: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Diagnostica Tecnica](https://img.shields.io/badge/TAVARDT-Diagnostica%20Tecnica-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-consent-mode-v2-gdpr/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow.svg)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Implementazione tecnica di Google Consent Mode v2, blocco preventivo dei cookie di profilazione e conformità alle linee guida del Garante Privacy in Italia.
-
-Sviluppato e gestito dalla divisione di sicurezza informatica e protezione infrastrutture di **TAVARDT**.
 
 ***
 
@@ -42,7 +40,6 @@ Consulta la lista dettagliata dei requisiti tecnici per l'Italia:
 
 Verifica la sicurezza perimetrale delle tue applicazioni web tramite gli strumenti ufficiali TAVARDT:
 
-* Validatore Consent Mode v2 e GDPR
 * [Analisi Header HTTP di Sicurezza](https://tools.tavardt.com/it/analisi-header-sicurezza/)
 * [Verifica Protocollo DMARC ed Email](https://tools.tavardt.com/it/verifica-dmarc-email/)
 * [Scansione File e Segreti Esposti](https://tools.tavardt.com/it/scansione-file-esposti/)
@@ -65,7 +62,7 @@ Per verifiche tecniche di conformità, audit di dataLayer e mitigazione dei risc
 ***
 
 ### Licenza
-Rilasciato sotto licenza MIT. Per maggiori dettagli, consultare il file [LICENSE](LICENSE).
+Rilasciato sotto licenza MIT.
 
 ***
 
