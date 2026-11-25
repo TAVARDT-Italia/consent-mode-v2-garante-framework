@@ -28,32 +28,23 @@ Per garantire la piena conformità al GDPR e alle linee guida del Garante, posiz
 
 ***
 
-## 3. Checklist e Requisiti del Garante
-
-Consulta la lista dettagliata dei requisiti tecnici per l'Italia:
-
-* Checklist
-
-***
-
-## 4. Strumenti Diagnostici Online (Italia)
+## 3. Strumenti Diagnostici Online (Italia)
 
 Verifica la sicurezza perimetrale delle tue applicazioni web tramite gli strumenti ufficiali TAVARDT:
 
 * [Analisi Header HTTP di Sicurezza](https://tools.tavardt.com/it/analisi-header-sicurezza/)
 * [Verifica Protocollo DMARC ed Email](https://tools.tavardt.com/it/verifica-dmarc-email/)
 * [Scansione File e Segreti Esposti](https://tools.tavardt.com/it/scansione-file-esposti/)
-* [Suite Diagnostica Completa Italia](https://tools.tavardt.com/it/)
 
 ***
 
-## 5. Consulenza e Ciberdifesa Aziendale
+## 4. Consulenza e Ciberdifesa Aziendale
 
 Per verifiche tecniche di conformità, audit di dataLayer e mitigazione dei rischi di sanzione in Italia, contatta **TAVARDT**.
 
 ***
 
-## Link Utili
+## 5. Link Utili
 
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
